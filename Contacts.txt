@@ -1,0 +1,15 @@
+Name: Sevdalina Ilieva
+Location: Sofia
+Hobbies: Reading; BG dances; fitnes; yoga
+Why SoftUni: Because I wanted to learn Java and receive positive recomendation from a friend.
+
+Name: Pavlina Naydenova
+Location: Sofia
+Hobbies: 
+Why SoftUni: 
+
+Name: Hristina Sheytanova
+Location: Sofia
+Hobbies: 
+Why SoftUni: 
+
