@@ -5,11 +5,11 @@ Why SoftUni: Because I wanted to learn Java and receive positive recomendation f
 
 Name: Pavlina Naydenova
 Location: Sofia
-Hobbies: 
-Why SoftUni: 
+Hobbies: Reading, mountain trekking , music, traveling
+Why SoftUni: quote: "because I want to develop my coding skills and learn new programming langueage"
 
 Name: Hristina Sheytanova
 Location: Sofia
-Hobbies: 
-Why SoftUni: 
+Hobbies: Reading, BG dances
+Why SoftUni: Personal development 
 
